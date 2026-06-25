@@ -1,0 +1,14 @@
+# Ana gereksinimler / Main requirements
+ultralytics
+opencv-python
+numpy
+pyrealsense2
+torch
+pyserial
+
+# Yüz kimliği tanıma kullanılacaksa / Optional face identity recognition
+insightface
+onnxruntime
+
+# NVIDIA GPU üzerinde ONNX hızlandırma istenirse / Optional ONNX GPU acceleration
+# onnxruntime-gpu

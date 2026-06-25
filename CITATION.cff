@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Intel B415 Kamera ile Derinlik Tabanlı Akıllı Gimbal Takip Sistemi"
+message: "Bu projeyi kullanırsanız lütfen kaynak gösterin. / If you use this project, please cite it."
+type: software
+authors:
+  - family-names: "Erten"
+    given-names: "Furkan"
+  - family-names: "[Eklenecek]"
+    given-names: "[Proje Ortağı]"
+year: 2026

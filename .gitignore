@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Çıktılar / Outputs
+runs/
+outputs/
+logs/
+*.avi
+*.mp4
+*.mkv
+*.npz
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
