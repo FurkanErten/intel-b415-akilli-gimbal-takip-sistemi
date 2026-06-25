@@ -8,8 +8,8 @@
 
 ## Proje Ekibi / Project Team
 
-- Furkan Erten
-- Proje ortağı / Project partner: **[Ad Soyad eklenecek]**
+- Furkan ERTEN
+- Mehmet Berke BÜLBÜL
 
 Bursa Teknik Üniversitesi, Elektrik-Elektronik Mühendisliği  
 EEM0401 Tasarım Çalışması
