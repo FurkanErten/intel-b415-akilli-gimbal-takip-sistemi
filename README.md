@@ -448,7 +448,7 @@ This project can be used as an engineering reference for:
 
 This project is developed for academic and engineering purposes. During motorized system tests, mechanical connections must be checked carefully, motor driver current limits must be configured correctly and the power supply must be used safely.
 
-When working with high-current motor drivers, precautions should be taken against short circuits, overheating and incorrect wiring.
+When working with high-current motor drivers, precautions should be taken against short circuits, overheating and incorrect wiring..
 
 ---
 
