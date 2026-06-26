@@ -1,0 +1,11 @@
+ultralytics
+opencv-python
+numpy
+pyrealsense2
+torch
+pyserial
+# Face ID kullanacaksan:
+insightface
+onnxruntime
+# GPU Face ID için CPU onnxruntime yerine bunu kurabilirsin:
+# onnxruntime-gpu

@@ -1,0 +1,3 @@
+@echo off
+python gpu_realsense_dark_depth_gimbal_v7_fast_dark.py --yolo models/yolov11l-face.pt --no-id --serial COM14 --width 640 --height 480 --fps 30 --depth-width 640 --depth-height 480 --depth-fps 30 --imgsz 640 --enhance always --enhance-backend deepfusion --dark-model model.pth --dark-module deepfusion_model.py --dark-input-size 320 --show-enhanced
+pause
